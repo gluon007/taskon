@@ -12,5 +12,6 @@ You can download the APK from [here](https://github.com/gluon007/taskon/raw/refs
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](https://github.com/gluon007/taskon/blob/main/Screenshot_20250417-174241.taskon.png)
+![Screenshot 2](https://github.com/gluon007/taskon/blob/main/Screenshot_20250417-174227.taskon.png)
+![Screenshot 3](https://github.com/gluon007/taskon/blob/main/Screenshot_20250417-174239.taskon.png)
